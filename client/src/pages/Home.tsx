@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Hero from '../assets/Hero';
 import HowItWorks from '../assets/HowItWorks';
 import FAQ from '../assets/FAQ';
