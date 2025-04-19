@@ -1,0 +1,14 @@
+{
+  "name": "sieve",
+  "version": "1.0.0",
+  "description": "Sieve browser extension for detecting bias in news",
+  "scripts": {
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run dev",
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.1"
+  }
+} 

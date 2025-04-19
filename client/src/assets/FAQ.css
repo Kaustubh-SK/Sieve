@@ -1,0 +1,32 @@
+.faq {
+    background-color: #f9f8f6;
+    padding: 4rem 2rem;
+    color: #333;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .faq-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .faq h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .faq-item {
+    margin-bottom: 2rem;
+  }
+  
+  .faq-item h3 {
+    font-size: 1.4rem;
+    color: #1d1d1d;
+  }
+  
+  .faq-item p {
+    font-size: 1.05rem;
+    color: #555;
+    line-height: 1.5;
+  }
+  

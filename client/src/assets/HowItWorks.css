@@ -1,0 +1,41 @@
+.how-it-works {
+    background-color: #fff;
+    padding: 4rem 2rem;
+    color: #333;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .how-it-works-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .how-it-works h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #222;
+  }
+  
+  .how-it-works ol {
+    padding-left: 1.25rem;
+    margin-bottom: 2rem;
+    line-height: 1.75;
+  }
+  
+  .how-it-works li {
+    margin-bottom: 1rem;
+    font-size: 1.05rem;
+  }
+  
+  .details-link {
+    color: #2f3e46;
+    font-weight: 500;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+  }
+  
+  .details-link:hover {
+    color: #1d262b;
+  }
+  
